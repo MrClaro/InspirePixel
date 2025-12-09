@@ -317,7 +317,7 @@ header {
     }
   }
 
-  // Menu hambúrguer
+  // Hamburger menu
   .menu-hamburguer {
     display: none;
     position: fixed;
